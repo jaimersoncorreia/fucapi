@@ -1,5 +1,4 @@
 <?php include("cabecalho.php");?>
-
 <!-- Criação de abas -->
 <ul class="nav nav-tabs" role="tablist">
     <li class="active">

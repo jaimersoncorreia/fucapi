@@ -31,6 +31,5 @@
         </nav>
     </div>
     <?php include("login.php");?>
-
 <div class="container">
 
