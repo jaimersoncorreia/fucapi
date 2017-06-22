@@ -6,13 +6,11 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
     </button>
-    <a href="../fucapi/"><img src="logo.png" alt="" style="margin: 10px 10px 10px 0;"> </a>
+    <a href="../fucapi/" class="navbar-brand">
+        <span class="img-logo">FUCAPI</span>
+    </a>
 </div>
-<div class="navbar-brand">
-                        <span style="color: #3c608c;font-size: 16px;">
-                                Soluções Inteligentes para a Amazônia
-                        </span>
-</div>
+
 <div class="collapse navbar-collapse" id="barra-top-tabs">
     <ul class="nav navbar-nav navbar-right">
         <li><a href="#">Institucional</a></li>

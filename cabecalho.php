@@ -4,12 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="img/favicon.ico">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Fucapi bootstrap</title>
 
     <!-- Bootstrap -->
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="estilo.css">
+    <link rel="stylesheet" href="../fucapi/estilo.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -19,17 +20,17 @@
     <![endif]-->
 </head>
 <body>
-    <div>
-        <nav class="navbar navbar-default">
+        <nav class="navbar navbar-default largura01 navbar-transparente">
             <div class="container">
                 <?php include("barras/barra-01.php");?>
             </div>
+        </nav>
 
+        <nav class="navbar navbar-default largura02 navbar-transparente">
             <div class="container">
                 <?php include("barras/barra-02.php");?>
             </div>
         </nav>
-    </div>
     <?php include("login.php");?>
 <div class="container">
 

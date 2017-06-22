@@ -8,12 +8,12 @@
     </button>
 </div>
 <div class="collapse navbar-collapse" id="barra-fucapi">
-    <ul class="nav navbar-nav navbar-left">
-        <li><a href="#" class="btn btn-default">SOBRE A FUCAPI</a></li>
-        <li><a href="#" class="btn btn-default">NOSSOS SERVIÇOS</a></li>
-        <li><a href="sala-impresa.php" class="btn btn-default">SALA DE IMPRENSA</a></li>
+    <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">SOBRE A FUCAPI</a></li>
+        <li><a href="nossos-servicos.php">NOSSOS SERVIÇOS</a></li>
+        <li><a href="sala-impresa.php">SALA DE IMPRENSA</a></li>
         <li>
-            <a class="btn btn-default" data-toggle="modal" data-target="#janela">
+            <a class="btn" data-toggle="modal" data-target="#janela">
                 PORTAL DE SERVIÇOS
             </a>
         </li>

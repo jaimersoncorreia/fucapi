@@ -1,23 +1,30 @@
-.marcador0{
-	background: #5bf946;
-	border: 1px solid #36ae26;
+.img-logo{
+	height: 100px;
+	width: 100px;
+	display: block;
+	background: url('../fucapi/img/logo.png') no-repeat;
+	background-size: contain;
+	color: transparent;
+}
+nav.largura01{
+	padding-bottom: 70px;
+	margin: 0px;
+	border-bottom: none;
+}
+.navbar-transparente{
+    background: rgba(70, 130, 180,0.2);
+}
+nav.largura02{
+	border-top: none;
+	margin: 0px;
 }
 
-.marcador1{
-	background: #fe9d9d;
-	border: 1px solid #f94646;
+.navbar-default .navbar-nav>li>a {
+	color: #3c608c;
 }
-
-.marcador2{
-	background: #FFA500;
-	border: 1px solid #FF8C00;
+.navbar-default .navbar-nav>li>a:hover {
+	color: #bc5e19;
 }
-
-.marcador3{
-	background: #FFC0CB;
-	border: 1px solid #DB7093;
-}
-
-a{
-	color: #1155CC;
+.transparente{
+    background: transparent;
 }
