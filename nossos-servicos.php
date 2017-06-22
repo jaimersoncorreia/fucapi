@@ -1,6 +1,9 @@
 <?php include('cabecalho.php');?>
 <div class="container">
-    <h3>Nossos Serviços</h3>
+    <h3 class="nosso">Nossos Serviços</h3>
+    <div>
+        <img src="img/Mapa-Fucapi.png" alt="" class="img-responsive">
+    </div>
     <p>
         Educação, Tecnologia, Meio Ambiente, Inovação. A história da FUCAPI é dedicada ao desenvolvimento tecnológico e empresarial nas regiões Norte e Nordeste, através da prestação de serviços técnicos especializados, contando com laboratórios de tecnologia de ponta, que vão desde testes de brinquedos à análise de eficiência energética e de metais pesados.
     </p>

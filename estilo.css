@@ -1,3 +1,4 @@
+
 .img-logo{
 	height: 100px;
 	width: 100px;
@@ -27,4 +28,10 @@ nav.largura02{
 }
 .transparente{
     background: transparent;
+}
+.nosso{
+    color: #3c608c;
+}
+.sala{
+    background: rgba(70, 130, 180,0.2);;
 }

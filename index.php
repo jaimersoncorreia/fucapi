@@ -16,13 +16,26 @@
 
 <!-- Conteúdo das abas -->
 <div class="tab-content">
-
     <!-- FUCAPI Tecnologia -->
-    <?php include("fucapi-tecnologia.php")?>
+
+                <?php include("fucapi-tecnologia.php")?>
+
+
     <!-- FUCAPI Educação -->
-    <?php include("fucapi-educacao.php")?>
 
+                <?php include("fucapi-educacao.php")?>
 
+</div>
+
+<div class="container" style="margin-top: 30px;">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="thumbnail"><img src="img/nome-prof.png" class="img-responsive" alt=""></div>
+        </div>
+        <div class="col-md-6">
+            <div class="thumbnail"><img src="img/moedinha.png" class="img-responsive" alt=""></div>
+        </div>
+    </div>
 </div>
 
 <?php include("rodape.php");?>

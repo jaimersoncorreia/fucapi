@@ -9,7 +9,7 @@
 </div>
 <div class="collapse navbar-collapse" id="barra-fucapi">
     <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">SOBRE A FUCAPI</a></li>
+        <li><a href="sobre.php">SOBRE A FUCAPI</a></li>
         <li><a href="nossos-servicos.php">NOSSOS SERVIÇOS</a></li>
         <li><a href="sala-impresa.php">SALA DE IMPRENSA</a></li>
         <li>

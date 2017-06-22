@@ -7,7 +7,7 @@
                 <h3>Institucional</h3>
                 <ul class="nav navbar-nav">
                     <li><a href="#">Quem Somos</a></li>
-                    <li><a href="#">Sala de Imprensa</a></li>
+                    <li><a href="sala-impresa.php">Sala de Imprensa</a></li>
                     <li><a href="#">Trabalhe Conosco</a></li>
                     <li><a href="#">Código de Ética</a></li>
                 </ul>
@@ -20,10 +20,16 @@
 
     </div>
     <div class="container navbar navbar-default transparente">
-        <div>Fundação Centro de Análise, Pesquisa e Inovação Tecnológica - FUCAPI - Av. Gov. Danilo de Mattos Areosa, 381 - Distrito Industrial - CEP: 69075-351</div>
-        <div>Geral: (092) 2127-3034 / 2127-3257</div>
-        <div>Manaus - Amazonas - Brasil</div>
+        <div class="row">
+            <div class="col-md-12">
+                <ul class="nav" style="padding-left: 15px">
+                    <li>Fundação Centro de Análise, Pesquisa e Inovação Tecnológica - FUCAPI - Av. Gov. Danilo de Mattos Areosa, 381 - Distrito Industrial - CEP: 69075-351</li>
+                    <li>Geral: (092) 2127-3034 / 2127-3257</li>
+                    <li>Manaus - Amazonas - Brasil</li>
+                </ul>
 
+            </div>
+        </div>
     </div>
 
 </footer>
